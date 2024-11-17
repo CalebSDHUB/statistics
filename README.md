@@ -1,2 +1,2 @@
 # statistics
-Basic statistics build from scratch
+Statistics build from scratch
